@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "kryssende_objekter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oslo Opera House" }, "geometry": { "type": "Point", "coordinates": [ 10.741858066530101, 59.915680196602835 ] } },
+{ "type": "Feature", "properties": { "name": "Royal Palace" }, "geometry": { "type": "Point", "coordinates": [ 10.755058066530101, 59.920680196602838 ] } },
+{ "type": "Feature", "properties": { "name": "Karl Johans Gate" }, "geometry": { "type": "Point", "coordinates": [ 10.734758066530102, 59.922080196602835 ] } },
+{ "type": "Feature", "properties": { "name": "Stortinget" }, "geometry": { "type": "Point", "coordinates": [ 10.722527261245625, 59.910048778074938 ] } },
+{ "type": "Feature", "properties": { "name": "Barcode Project" }, "geometry": { "type": "Point", "coordinates": [ 10.708849878263671, 59.913687041207872 ] } },
+{ "type": "Feature", "properties": { "name": "Akerselva River Path" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7522, 59.9139 ], [ 10.755, 59.915 ], [ 10.758, 59.916 ] ] } },
+{ "type": "Feature", "properties": { "name": "Frogner Park Trail" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7498, 59.9127 ], [ 10.751, 59.9135 ], [ 10.753, 59.9142 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.730778472915693, 59.915398465898136 ], [ 10.734022317460175, 59.911100371876692 ], [ 10.749025098478409, 59.915074081443684 ], [ 10.756972517612391, 59.91328996694422 ], [ 10.75340428861346, 59.908343104013881 ] ] } },
+{ "type": "Feature", "properties": { "name": "Oslo Fjord Walk" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7522, 59.9103 ], [ 10.7545, 59.911 ], [ 10.7568, 59.9115 ] ] } },
+{ "type": "Feature", "properties": { "name": "National Museum Avenue" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7312, 59.9132 ], [ 10.7325, 59.9138 ], [ 10.734, 59.9145 ] ] } },
+{ "type": "Feature", "properties": { "name": "Stortinget Pathway" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7245, 59.907 ], [ 10.726, 59.9075 ], [ 10.7275, 59.908 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.716748845260804, 59.90728885453693 ], [ 10.725020648849236, 59.902098703265757 ], [ 10.727372436143986, 59.905748028378298 ], [ 10.725507225530908, 59.908991872922783 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.72088474705502, 59.906802277855256 ], [ 10.718370767533045, 59.902260895492979 ], [ 10.724534072167563, 59.904937067242173 ], [ 10.730454088461244, 59.903234048856326 ] ] } }
+]
+}
